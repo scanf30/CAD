@@ -2,20 +2,6 @@
 
 Python library: [*openpyxl*](https://openpyxl.readthedocs.io/en/stable/index.html)
 
-## Instalaci'on
-
-Abre una terminal con:
-
-`ctrl` + `alt` + `t`
-
-ingresa el siguiente comando en terminal:
-
-`pip3 install openpyxl`
-
-> **NOTA**:  Si no tienes instalado pip3 en terminal ingresa:
->
-> `sudo apt-get install pip3`
-
 ## fileMamage Python Module
 
 Este modulo sirve para la gestion del archivo. El archivo se crea en la misma carpta conde se encuetra este modulo. El nombre del archivo es el de la fecha en la que se corre el modulo.  
@@ -26,14 +12,20 @@ Este modulo sirve para la gestion del archivo. El archivo se crea en la misma ca
 > Si el archivo existe y tiene el mismo nombre, este
 > se sobre escribe.
 
-<!-- 
-intall via pi
+## Instalación
 
-pip3 install pandas
-pip3 install xlrd
-pip install XlsxWriter
+Abre una terminal con:
 
-install via ubuntu repo
+`ctrl` + `alt` + `t`
 
-sudo ap-get isntall python3-pandas
-install dependencias -->
+ingresa el siguiente comando en terminal:
+
+``` bash
+pip3 install openpyxl
+```
+
+> **NOTA**:  Si no tienes instalado pip3 en terminal ingresa:
+>
+> ``` bash
+> sudo apt-get install python3-pip
+>```
