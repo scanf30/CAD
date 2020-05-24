@@ -5,7 +5,7 @@ Desarrollo del sistema de control ON/OFF y librería para guardado de peso de en
 
 ruta
 
-## Librería [**fileManage**](https://github.com/scanf30/CAD/tree/control/control/Coantrol_Vascula) (python 3)
+## Librería [**fileManage**](https://github.com/scanf30/CAD/tree/control/control/Control_Vascula) (python 3)
 
 Esta librería toma como parametro los kg pesados en la vascula y los anexa a un workspace para al final exportarlo a un archivo excel.
 
@@ -17,7 +17,7 @@ Esta librería toma como parametro los kg pesados en la vascula y los anexa a un
 | Lenguaje de progrmación | Python 3.x      |   ---   |
 | perifericos  | Teclado y mouse    |  Teclado   |
 
-Si ya cuentas con python 3 sigue el siguente tutorial para ejecutar el [DEMO](https://github.com/scanf30/CAD/tree/control/control/Coantrol_Vascula)
+Si ya cuentas con python 3 sigue el siguente tutorial para ejecutar el [DEMO](https://github.com/scanf30/CAD/tree/control/control/Control_Vascula)
 
 >Nota:
 >

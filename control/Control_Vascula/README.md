@@ -12,7 +12,7 @@ Este modulo sirve para la gestion del archivo. El archivo se crea en la misma ca
 > Si el archivo existe y tiene el mismo nombre, este
 > se sobre escribe.
 
-## Instalación
+## Instalación de dependencias
 
 Abre una terminal con:
 
@@ -29,3 +29,25 @@ pip3 install openpyxl
 > ``` bash
 > sudo apt-get install python3-pip
 >```
+
+## Ejecutando Demo
+
+Una vez instalada la librería en terminal iremos a la carpeta Control_Vascula de este repositorio ejecutando en terminal:
+
+``` bash
+cd ruta_del_repositorio/control/Control_Vascula
+```
+
+Dentro de esta carpeta encontraremos los sigueintes archivos:
+
+ * [fileManage.py]()
+ * [main.py]()
+
+Antes de ejecutar el demo, nos aseguramos de que el archivo **main.py** tenga los permisos adecuados ejecutando en terminal el comando:
+
+```bash
+ls -la
+```
+
+
+
