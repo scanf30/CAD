@@ -34,10 +34,10 @@ pip3 install openpyxl
 
 ### 1.- Ir al directorio del Demo
 
-Una vez instalada la librería en terminal iremos a la carpeta Control_Vascula de este repositorio ejecutando en terminal:
+Una vez instalada la librería en terminal iremos a la carpeta Control_bascula de este repositorio ejecutando en terminal:
 
 ``` bash
-cd ruta_del_repositorio/control/Control_Vascula
+cd ruta_del_repositorio/control/Control_bascula
 ```
 
 Dentro de esta carpeta encontraremos los sigueintes archivos:

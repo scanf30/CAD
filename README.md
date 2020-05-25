@@ -7,7 +7,7 @@ ruta
 
 ## Librería [**fileManage**](https://github.com/scanf30/CAD/tree/control/control/Control_Vascula) (python 3)
 
-Esta librería toma como parametro los kg pesados en la vascula y los anexa a un workspace para al final exportarlo a un archivo excel.
+Esta librería toma como parametro los kg pesados en la bascula y los anexa a un workspace para al final exportarlo a un archivo excel.
 
 ### Requerimientos
 
