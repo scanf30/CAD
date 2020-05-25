@@ -3,7 +3,7 @@ Desarrollo del sistema de control ON/OFF y librería para guardado de peso de en
 
 ## Controlador On/Off
 
-ruta
+[Control](https://github.com/scanf30/CAD/blob/master/control/Control_Motores/OnOff.cpp)
 
 ## Librería [**fileManage**](https://github.com/scanf30/CAD/blob/master/control/Control_Bascula/fileManage.py) (python 3)
 
